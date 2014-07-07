@@ -1,0 +1,6 @@
+D:\CodeJam2\Shivangi\ANAGRAMS\bin\Debug\ANAGRAMS.exe.config
+D:\CodeJam2\Shivangi\ANAGRAMS\bin\Debug\ANAGRAMS.exe
+D:\CodeJam2\Shivangi\ANAGRAMS\bin\Debug\ANAGRAMS.pdb
+D:\CodeJam2\Shivangi\ANAGRAMS\obj\Debug\ANAGRAMS.csprojResolveAssemblyReference.cache
+D:\CodeJam2\Shivangi\ANAGRAMS\obj\Debug\ANAGRAMS.exe
+D:\CodeJam2\Shivangi\ANAGRAMS\obj\Debug\ANAGRAMS.pdb

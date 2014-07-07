@@ -1,0 +1,6 @@
+D:\CodeJam2\Shivangi\Shivangi\bin\Debug\Shivangi.exe.config
+D:\CodeJam2\Shivangi\Shivangi\bin\Debug\Shivangi.exe
+D:\CodeJam2\Shivangi\Shivangi\bin\Debug\Shivangi.pdb
+D:\CodeJam2\Shivangi\Shivangi\obj\Debug\ACGT.csprojResolveAssemblyReference.cache
+D:\CodeJam2\Shivangi\Shivangi\obj\Debug\Shivangi.exe
+D:\CodeJam2\Shivangi\Shivangi\obj\Debug\Shivangi.pdb
