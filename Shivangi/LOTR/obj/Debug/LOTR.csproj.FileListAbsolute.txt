@@ -1,0 +1,6 @@
+D:\CodeJam2\Shivangi\LOTR\bin\Debug\LOTR.exe.config
+D:\CodeJam2\Shivangi\LOTR\bin\Debug\LOTR.exe
+D:\CodeJam2\Shivangi\LOTR\bin\Debug\LOTR.pdb
+D:\CodeJam2\Shivangi\LOTR\obj\Debug\LOTR.csprojResolveAssemblyReference.cache
+D:\CodeJam2\Shivangi\LOTR\obj\Debug\LOTR.exe
+D:\CodeJam2\Shivangi\LOTR\obj\Debug\LOTR.pdb

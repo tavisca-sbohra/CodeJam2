@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BE392639-F86B-440F-B852-1DC93605EDC7}</ProjectGuid>
+    <ProjectGuid>{2DA9EBDE-6E4E-4B64-BF59-22C49C2D47CB}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DATING</RootNamespace>
-    <AssemblyName>DATING</AssemblyName>
+    <RootNamespace>LOTR</RootNamespace>
+    <AssemblyName>LOTR</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,7 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="date.cs" />
+    <Compile Include="lotr.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
